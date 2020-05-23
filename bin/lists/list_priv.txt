@@ -1,0 +1,10 @@
+Assistant.apk
+Calculator.apk
+Calendar.apk
+DesktopBackup.apk
+Email.apk
+FlymeLauncher.apk
+Pedometer.apk
+Picker.apk
+Search.apk
+Suggestion.apk
