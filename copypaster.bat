@@ -75,11 +75,18 @@ cd %output_folder%
 set "list_app=list_app.txt"
 set "list_priv=list_priv.txt"
 set "list_mz=list_mz.txt"
+set "list_fr=list_fr.txt"
 goto 2list_app
 :2list_app
 set "list=%list_app%"
 mkdir app >nul 2>nul
 set "folder=app"
+set "gt=2list_fr"
+goto move_in_out
+:2list_fr
+set "list=%list_fr%"
+mkdir framework >nul 2>nul
+set "folder=framework"
 set "gt=2list_priv"
 goto move_in_out
 :2list_priv

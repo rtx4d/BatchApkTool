@@ -1,2 +1,11 @@
+AlarmClock.apk
+ConnectivitySettings.apk
+DownloadProviderUi.apk
+FileManager.apk
 MzBatteryManager.apk
 MzSecurity.apk
+MzSyncService.apk
+Stk.apk
+Stk1.apk
+Weather.apk
+WifiAdmin.apk

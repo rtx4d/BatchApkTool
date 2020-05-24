@@ -1,0 +1,3 @@
+framework-res.apk
+flyme-res.apk
+mediatek-res.apk
